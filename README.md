@@ -29,6 +29,14 @@ O EKKO é uma solução completa para agricultura de precisão que permite aos u
 - **12** parâmetros de análise IA
 - **100%** responsivo
 
+## 👥 Equipe
+
+- Ana Cecília
+- Diogo Mafra
+- Eduardo Forster
+- Felipe Barroso
+- Thaiza Valentim
+  
 ---
 
 **Equipe 34DS08** | **ETE FMC** | **Santa Rita do Sapucaí, MG**
